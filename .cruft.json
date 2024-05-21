@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/brightway-lca/cookiecutter-brightwaylib",
+  "commit": "eed7d2c3a958a448a9e99c0e19481f56f5313977",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Willy Jin",
+      "email": "zibo.jin@enpc.fr",
+      "github_username": "WillyJin",
+      "project_name": "packaging_test",
+      "package_name": "mypackage",
+      "project_short_description": "This is a test package for learning how to package",
+      "version": "0.0.1",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "https://github.com/brightway-lca/cookiecutter-brightwaylib"
+    }
+  },
+  "directory": null
+}
